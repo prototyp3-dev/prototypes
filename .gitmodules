@@ -1,0 +1,21 @@
+[submodule "coin-toss"]
+	path = coin-toss
+	url = git@github.com:prototyp3-dev/coin-toss.git
+[submodule "echo-plus"]
+	path = echo-plus
+	url = git@github.com:prototyp3-dev/echo-plus.git
+[submodule "echo-voucher"]
+	path = echo-voucher
+	url = git@github.com:prototyp3-dev/echo-voucher.git
+[submodule "frontend-web"]
+	path = frontend-web
+	url = git@github.com:prototyp3-dev/frontend-web-cartesi.git
+[submodule "ornithologist"]
+	path = ornithologist
+	url = git@github.com:prototyp3-dev/ornithologist.git
+[submodule "token-prices"]
+	path = token-prices
+	url = git@github.com:prototyp3-dev/token-prices.git
+[submodule "web2toCartesi"]
+	path = web2toCartesi
+	url = git@github.com:prototyp3-dev/web2toCartesi.git
