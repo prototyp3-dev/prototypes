@@ -52,7 +52,7 @@ Thr [Ornithologist](https://github.com/prototyp3-dev/ornithologist) DApp exercis
 ## Odds and Evens Game DApp
 
 ```
-Cartesi Rollups version: 0.8.x
+Cartesi Rollups version: 0.9.x
 ```
 
 The [Odds and Evens](https://github.com/prototyp3-dev/odds-and-evens) shows how to use the Commit-Reveal logic to implement an Odds and evens game. In Commit-Reveal schemes, each player submits a "commitment" for a secret message. After all players sent their commitments, they send the "reveal", the data that allows the recovery or proof of the initial commitment. Players cannot deny or fake the actions they have commited. The odd and evens game dapp use the Commit-Reveal logic to implement simultaneous actions, but the scheme can be used to simulated hidden actions, generate an unbiased shared state (such as seed for random numbers), and many other use cases.
